@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './components/Header/Header';
+import UserStore from './stores/UserStore';
 
 function App() {
   return (
